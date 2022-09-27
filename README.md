@@ -1,7 +1,9 @@
-### Hi there, I'm Sofia Oliva 👋
-
+### Hi there
+## I'm Sofia Oliva 👋
+> "I've never done something like forget, so..."
 - I enjoy programming 💬
 - I'm in Drexel University's class of '25 🐉
+- <sub>I'm not working on anything personal as of yet, only a mini game jam</sub>
 
 
 <!--
