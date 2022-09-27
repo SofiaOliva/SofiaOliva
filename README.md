@@ -1,7 +1,7 @@
 ### Hi there, I'm Sofia Oliva 👋
 
-💬 I enjoy programming.
-🐉 I'm in Drexel University's class of '25.
+- 💬 I enjoy programming.
+- 🐉 I'm in Drexel University's class of '25.
 
 
 <!--
