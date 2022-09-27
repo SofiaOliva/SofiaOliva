@@ -1,6 +1,7 @@
 ### Hi there
 ## I'm Sofia Oliva 👋
-> "I've never done something like forget, so..."
+Current thing I find cool: >[The first bug in programming, a moth taped to a computer log..](https://en.wikipedia.org/wiki/Software_bug)
+
 - I enjoy programming 💬
 - I'm in Drexel University's class of '25 🐉
 - <sub>I'm not working on anything personal as of yet, only a mini game jam</sub>
