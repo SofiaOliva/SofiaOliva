@@ -1,11 +1,12 @@
-## Hi there
-### I'm Sofia Oliva 👋✨
+## Hi there, I'm Sofia Oliva 👋✨
 ###### Current thing I find cool: [The first bug in programming, a moth taped to a computer log.](https://en.wikipedia.org/wiki/Software_bug)✨
 
 - I enjoy programming 💬
 - I'm in Drexel University's class of '25 🐉
 
+I'm currently interested in:
 
+![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofiaOliva&show_icons=true&theme=radical)
 <!--
 **SofiaOliva/SofiaOliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
