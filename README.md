@@ -5,7 +5,7 @@
 - I'm in Drexel University's class of '25 🐉
 
 <a href="https://github.com/SofiaOliva/">
-  <img align="center" src="![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofiaOliva&show_icons=true&theme=radical)
+  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=SofiaOliva&show_icons=true&theme=radical)
 
 " />
 </a>
