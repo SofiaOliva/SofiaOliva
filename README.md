@@ -5,8 +5,9 @@
 - I'm in Drexel University's class of '25 🐉
 
 <a href="https://github.com/SofiaOliva/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofiaOliva&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SofiaOliva&show_icons=true&theme=radical
+" />
 </a>
 <a href="https://github.com/SofiaOliva/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofiaOliva&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaOliva&layout=compact)](https://github.com/SofiaOliva/github-readme-stats)" />
 </a>
