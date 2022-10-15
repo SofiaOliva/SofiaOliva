@@ -3,10 +3,7 @@
 
 - I enjoy programming 💬
 - I'm in Drexel University's class of '25 🐉
+- 
+![Sofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofiaOliva&show_icons=true&theme=dracula)
 
-<a href="https://github.com/SofiaOliva">
-  <img align="center" src="[!Sofie's Github Stats](https://github-readme-stats.vercel.app/api?username=SofiaOliva&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)" />
-</a>
-<a href="https://github.com/SofiaOliva">
-  <img align="center" src="[!Sofie's Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaOliva&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)" />
-</a>
+[![Sofie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofieOliva&layout=compact)](https://github.com/SofieOliva/github-readme-stats&theme=dracula)
