@@ -6,8 +6,13 @@
 
 I'm currently interested in:
 
-![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofiaOliva&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaOliva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofiaOliva&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaOliva&layout=compact)](https://github.com/Sofia Oliva/github-readme-stats)
+<a href="https://github.com/SofiaOliva/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofiaOliva&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/SofiaOliva/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofiaOliva&repo=convoychat" />
+</a>
 <!--
 **SofiaOliva/SofiaOliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
