@@ -4,9 +4,9 @@
 - I enjoy programming 💬
 - I'm in Drexel University's class of '25 🐉
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/SofiaOliva">
   <img align="center" src=["https://github-readme-stats.vercel.app/api/pin/?username=SofiaOliva&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=SofiaOliva&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/SofiaOliva">
   <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=SofiaOliva&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaOliva&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)" />
 </a>
