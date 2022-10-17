@@ -4,10 +4,10 @@
 - I enjoy programming 💬
 - I'm in Drexel University's class of '25... The sicilian dragon! 🐉
  ## Experience
- [b]Languages[/b]:
+ # **Languages**:
 - Java, C, Python, HTML, CSS, Ruby
-[b]Applications[/b]:
-- Unity
+# **Applications**:
+- Unity, RPGMaker VX Ace
 
 <div align="center">
   <a href="https://github.com/SofiaOliva">
