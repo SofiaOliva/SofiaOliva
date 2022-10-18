@@ -12,6 +12,6 @@
 <div align="center">
   <a href="https://github.com/SofiaOliva">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SofiaOliva&hide_border=false&include_all_commits=false&count_private=true&theme=tokyonight"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaOliva&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaOliva&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact&hide=ShaderLab"/>
 </div>
 
