@@ -3,7 +3,6 @@
 
 - I enjoy programming 💬
 - I'm in Drexel University's class of '25🐉 
-- Computer Science undergraduate with two concentrations in Game Programming and Development and Artificial Intelligence and Machine Learning
  ## Experience
 - **Languages**:
   - Java, C, Python, HTML, CSS, Ruby
