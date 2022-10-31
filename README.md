@@ -2,7 +2,8 @@
 ###### Current thing I find cool: [The first bug in programming, a moth taped to a computer log.](https://en.wikipedia.org/wiki/Software_bug)✨
 
 - I enjoy programming 💬
-- I'm in Drexel University's class of '25 🐉 
+- I'm in Drexel University's class of '25🐉 
+- Computer Science undergraduate with two concentrations in Game Programming and Development and Artificial Intelligence and Machine Learning
  ## Experience
 - **Languages**:
   - Java, C, Python, HTML, CSS, Ruby
