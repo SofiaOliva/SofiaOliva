@@ -1,7 +1,7 @@
-## Hi there, I'm Sofia Oliva 👋✨
+## Hi there 👋
 ###### Current thing I find cool: [The first bug in programming, a moth taped to a computer log.](https://en.wikipedia.org/wiki/Software_bug)✨
 
-- I enjoy programming 💬
+- I'm Sofia and I enjoy programming 💬
 - My icon is my dog, Dash!
 - I'm in Drexel University's class of '25🐉 
  ## Experience
