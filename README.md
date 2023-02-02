@@ -6,7 +6,7 @@
 - I'm in Drexel University's class of '25🐉 
  ## Experience
 - **Languages**:
-  - Java, C, Python, HTML, CSS, Ruby
+  - Java, C, Python, HTML, CSS
 - **Applications**:
   - Unity, RPGMaker VX Ace
 <!--
