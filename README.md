@@ -3,8 +3,7 @@
 
 - I'm Sofia and I enjoy programming 💬
 - My icon is my dog, Dash!
-- I'm at Drexel University 🐉 
-- I am a Software Engineer Intern at Wegmans
+- I'm currently a Computer Science undergraduate with concentrations in Game Programming and Development and Artificial Intelligence and Machine attending Drexel University
  ## Experience
 - **Languages**:
   - Java, C, Python, HTML, CSS
