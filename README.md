@@ -8,7 +8,7 @@
 - **Languages**:
   - Java, C, Python, HTML, CSS
 - **Applications**:
-  - Unity, RPGMaker VX Ace
+  - Unity, Visual Studio 2022, Visual Studio Code
 <!--
 <div align="center">
   <a href="https://github.com/SofiaOliva">
