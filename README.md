@@ -1,5 +1,5 @@
-## Hi there 👋
-###### Current thing I find cool: [The first bug in programming, a moth taped to a computer log.](https://en.wikipedia.org/wiki/Software_bug)✨
+## Hello! 👋
+###### Current thing I find cool: no matter how hard you try, mov in Unix will either rename your file or move the file, and can guess which happens to me when I try to move files?✨
 
 - I'm Sofia and I enjoy programming 💬
 - My icon is Granita (straight from Sicily)!
