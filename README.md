@@ -3,7 +3,7 @@
 
 - I'm Sofia and I enjoy programming 💬
 - My icon is Granita (straight from Sicily)!
-- I'm currently a Computer Science undergraduate with concentrations in Game Programming and Development and Artificial Intelligence and Machine attending Drexel University
+- I'm currently a Computer Science undergraduate with concentrations in Game Programming and Development and Artificial Intelligence and Machine Learning attending Drexel University
  ## Experience
 - **Languages**:
   - Java, C, Python, HTML, CSS
