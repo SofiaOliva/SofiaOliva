@@ -6,7 +6,7 @@
 - I'm currently a Computer Science undergraduate attending Drexel University
  ## Experience
 - **Languages**:
-  - Java, C, Python, HTML, CSS
+  - Java, C, Python, C#, HTML, CSS
 - **Applications**:
   - Unity, Visual Studio 2022, Visual Studio Code
 <!--
