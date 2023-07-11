@@ -3,9 +3,7 @@
 
 - I'm Sofia and I enjoy programming 💬
 - My icon is Granita (straight from Sicily)!
-- I'm currently a Computer Science undergraduate attending Drexel University 
-## Other links
-- https://sofiaoliva.itch.io/
+- I'm currently a Computer Science undergraduate attending Drexel University
  ## Experience
 - **Languages**:
   - Java, C, Python, HTML, CSS
